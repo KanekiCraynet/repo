@@ -5,7 +5,7 @@
 // @lang         id
 // @license      MIT
 // @icon         https://kuromanhua.xyz/wp-content/uploads/Tanpa-Judul.png
-// @package      komiku.com
+// @package      kuromanhua.xyz
 // @type         manga
 // @webSite      https://kuromanhua.xyz
 // @nsfw         false
